@@ -1,4 +1,3 @@
-
 h1{
   color:white;
   background:#0093D0;
@@ -10,3 +9,8 @@ h2{
 }
 
 .resizeimage img { width: 100%; }
+
+
+img{
+  border-radius: 50%;
+}
